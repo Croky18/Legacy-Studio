@@ -1,0 +1,11 @@
+{
+    "script": "LS-store-robbry",
+    "version": "2.2.0",
+    "changelog": [
+        "ESX ONLY UPDATE",
+        "Kassa systeem gefixt",
+        "Kleine bugfixes",
+        "taal bestanden geupdate",
+        "Nieuwe Debug system toegevoegd voor makkelijker fouten opsporen"
+    ]
+}
